@@ -1,0 +1,9 @@
+# 应用系统配置
+[setting]
+    http_name = "http"
+    http_port = 10901
+    https_port = 10902
+    ws_port = 10903
+
+[logger]
+    path = "/log"
